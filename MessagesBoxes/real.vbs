@@ -1,0 +1,1 @@
+inputbox"What you are?","Question","A Fool."
